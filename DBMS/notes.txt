@@ -1,0 +1,21 @@
+DBMS 
+
+- A system software that allows user to define , create , maintain and control access to data base 
+-acts as interface between the user end and database 
+-a application which ensure consistently organized , easily accessible and secure .
+
+
+II) key words
+
+- data definition: creating and modifying data base structure i.e tables ,  indexes etc 
+-data manipulation : inserting , deleting , updating and adding querying data.
+-data security and integrity: enforcing access controls and maintaining data accuracy .
+-concurrency control : managing simultaneous access to prevent conflicts.
+-backup and recovery : ensuring data safety and restoration in case of failure .
+
+
+------AND CLEARLY THIS NOTES ARE NEARLY AND ALMOST SAME AS G.F.G IF YOU GOT IT CONGRATULATIONS..... THEN TOOO THIS NOTES HIDES A LOT OF SECRET'S AND YOU WILL KNOW ONLY IF YOU GO THROUGH AARIT... MORE OVER I'LL WRITE THE TIME STORY SO YOU WILL BE PROUD MY FUTURE SELF.... AM HANGNING IN HERE YOU TOOO HANG IN THERE DONT GIVE UP ILL ALWAYS PASS THRUGH ANY PROBLEM..... SONE THERE WILLL BE ###STROY_TIME### SO KEEEP GOING ON AARIT....
+------
+
+
+---INTRODUCTION --- MAY BE NEXT DAY  
